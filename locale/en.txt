@@ -6,7 +6,7 @@
 tour.description = ¡Un lugar con todo para el Biker! Motos, cascos, accesorios,  indumentarias y buenísima onda.
 
 ### Title
-tour.name = Biker's Hub
+tour.name = Biker's Hub - Tienda Virtual
 
 ## Skin
 
@@ -101,9 +101,7 @@ PopupWebFrameBehaviour_07E79145_15AF_533A_41A8_9240B5842660.url = https://bikers
 PopupWebFrameBehaviour_0A319B14_16A9_575A_4190_B56AE73DF760.url = https://bikershub.com/brand/radikal/
 PopupWebFrameBehaviour_0BDD40D7_16E8_D2C6_41B3_9C749D654AC8.url = https://bikershub.com/brand/forma/
 PopupWebFrameBehaviour_0F5D08A3_FF87_206F_41EA_A37E50E115AD.url = https://bikershub.com/product-category/accesorios/
-PopupWebFrameBehaviour_1A205D37_1567_5346_419D_8CA7B5DDD008.url = https://bikershub.com/product-category/ropa-casual/
 PopupWebFrameBehaviour_1A7275E2_1569_52FE_4197_39B524C5A712.url = https://bikershub.com/product-category/ropa-casual/
-PopupWebFrameBehaviour_1A76578C_1568_FF4A_4199_2AF86629ABC9.url = https://bikershub.com/index.php/product-category/accesorios/
 PopupWebFrameBehaviour_1AA8089F_156B_3146_419F_C20DAF8F68D2.url = https://bikershub.com/product-category/ropa-casual/
 PopupWebFrameBehaviour_2BCC1697_1D68_F146_419E_F4EC1A4DEE03.url = https://bikershub.com/index.php/product-category/ropa-casual/
 PopupWebFrameBehaviour_30CDAF31_1AAF_4F5A_41AC_80BBC2D054AA.url = https://bikershub.com
