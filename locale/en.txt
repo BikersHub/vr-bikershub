@@ -1,0 +1,142 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = ¡Un lugar con todo para el Biker! Motos, cascos, accesorios,  indumentarias y buenísima onda.
+
+### Title
+tour.name = Biker's Hub
+
+## Skin
+
+### Button
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = GO TO BUY 
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4_mobile.label = VER SITIO 
+
+### Multiline Text
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.02vw;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:1.57vw;font-family:'Exo';"><B><I>SPORTBACK 1.4 / TDI ULTRA / 90 CV / ATTRACTION </I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">General Data:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">Year 2019 / 51.214 kms / Diesel / </SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">5 doors / 90 cv / Manual</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.45vw;font-family:'Exo';"><B>$18300</B></SPAN></SPAN></DIV></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.17vw;font-family:'Exo';"><B>Bikers Hub nace en el 2020, luego de varios años de estar en el tintero como un proyecto.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.17vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.17vw;font-family:'Exo';"><B>Somos un grupo de Riders que nos dimos cuenta de la falencia de los locales que venden este tipo de productos a la hora de asesorar a los usuarios, y en busca de querer ayudar a la comunidad de Riders y de ofrecer un servicio diferente nace BIKER’S HUB.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.17vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.17vw;font-family:'Exo';"><B>Con una propuesta diferente a lo que existe en el mercado a la hora de elegir productos relacionados al mundo del motociclismo y rompiendo el concepto tradicional de tienda de venta de indumentaria y accesorios, creemos que gracias a nuestras experiencias vividas como Riders podemos ayudar a otros Riders a elegir los productos que realmente les van a servir para disfrutar de manera diferente y segura de sus motocicletas.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.17vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.17vw;font-family:'Exo';"><B>Bikers Hub, no solo pretende ser una tienda más como las varias que existen en Paraguay, sino que queremos darle a nuestros clientes la posibilidad de disfrutar de un espacio de entretenimiento relacionado con el mundo de las motos, y de acceder a productos de primer nivel.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.17vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.17vw;font-family:'Exo';"><B>Sabemos que hay mucha competencia allá afuera, pero creemos que, en el asesoramiento y atención al detalle con nuestros clientes, y experiencia con los productos que ofrecemos, sea lo que nos diferencie de nuestra competencia y que se note cuán comprometidos estamos con la satisfacción del cliente.</B></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_E99A2B3C_FAFD_6059_41A8_51D39B7BCF4C.label = Toma 10
+panorama_E9B6EAA8_FA85_6079_41E9_821F5C3BD500.label = Toma 8
+panorama_ED7B5039_FA83_205B_417E_AAD4A1A72C69.label = Toma 13
+panorama_EF5D925B_FA85_60DF_41B0_E22295A17425.label = Toma 11
+panorama_F0403663_FA83_60EF_41D8_5FA2F586D248.label = Toma 15
+panorama_F0407E9F_FA83_2057_41E5_C64DAAAD9AFD.label = Toma 14
+panorama_F0409460_FA82_E0E9_41DE_F705B253EA78.label = Toma 7
+panorama_F040DF28_FA83_207A_41E9_65E70BAF9C0D.label = Toma 12
+panorama_F040F6A3_FA83_206F_41D5_93C1840FF7A3.label = Toma 9
+panorama_F0BBD86C_FA7D_E0F9_41CA_3A7FEBA0098C.label = Toma 2
+panorama_F0BFB39D_FA7D_605B_41D0_93EE61C6D6FE.label = Toma 5
+panorama_F0BFBBF5_FA7D_27EB_41E6_07625950C95C.label = Toma 6
+panorama_F0BFC18C_FA7D_2039_41C7_3612AF418A80.label = Toma 3
+panorama_F0BFFBEA_FA7D_27FE_41E4_C3DA650DF358.label = Toma 4
+panorama_F189DDA3_FA7D_206F_41EA_8605AEE2168E.label = Toma 1
+video_0744D3A4_1559_D77A_41B4_F87BE324F934.label = RADIKAL
+video_085E5929_16F9_734A_4189_2ECC89037349.label = Viaje a CERRO LEON! CHACO PARAGUAYO! 1643 KMTS @meolaguay @enrique.cadogan @n...-271330660571409_xmute
+video_0926E1B3_16F9_335E_41AA_BCBCB06DE651.label = Viaje a CERRO LEON! CHACO PARAGUAYO! 1643 KMTS @meolaguay @enrique.cadogan @n...-271330660571409
+video_0AFA6FFE_16F8_CEC6_4164_C086BA614227.label = Te invitamos a ver nuestra tienda y un poco de los productos que tenemos disp...-629466964370684_xmute
+video_0B0D1FC6_16D8_CEC6_415D_9B061E63A21D.label = forma-white
+video_0BA42B18_16E9_7749_418F_B90C92D8975A.label = Te invitamos a ver nuestra tienda y un poco de los productos que tenemos disp...-629466964370684
+video_0C18AEC4_1559_513A_4197_0CBB05754EF4.label = RADIKAL - white
+video_0CF5F7D4_157B_5EDA_41B2_1D30791135F3.label = Dealers oficiales NEXX-1004675629882140
+video_0DA04646_1569_51C6_4163_8A00E034246D.label = NEXX 1080
+video_0F7F2971_16A9_33DA_41B0_AC6124ED0218.label = NEXX-Helmets-Logo-white
+
+## Action
+
+### URL
+LinkBehaviour_30C83F39_1AAF_4F4A_419F_6463A4011BEF.source = https://bikershub.com
+LinkBehaviour_30CE4F2C_1AAF_4F4A_41B8_ACAB159796AD.source = http://twitter.com/loremipsum
+LinkBehaviour_30CE8F2D_1AAF_4F4A_41A4_8C134EFD0D6F.source = http://www.facebook.com/loremipsum
+LinkBehaviour_EA2E015D_FA85_20DB_41ED_7B12A6048791.source = http://www.facebook.com/loremipsum
+LinkBehaviour_EA2E615D_FA85_20DB_41E7_9978C8B8C84B.source = https://www.loremipsum.com
+LinkBehaviour_EA2EA15D_FA85_20DB_41E6_1DE5716A69AD.source = http://twitter.com/loremipsum
+PopupWebFrameBehaviour_027F3B92_156F_575E_41AC_125ED6171E99.url = https://bikershub.com/brand/radikal/
+PopupWebFrameBehaviour_04001FA7_15A7_4F46_41B5_001D7074DAC7.url = https://bikershub.com/index.php/product-category/cascos/
+PopupWebFrameBehaviour_0400B28C_1569_514A_4191_18B6A1913361.url = https://bikershub.com/index.php/product-category/cascos/
+PopupWebFrameBehaviour_040606E7_15A9_3EC6_41B3_365268D3974A.url = https://bikershub.com/index.php/product-category/equipos/
+PopupWebFrameBehaviour_04067F45_15DB_CF3B_41AB_2B4D02A615E0.url = https://bikershub.com/tienda/eks-brand-radikal-limited-edition-antiparras-flat-out-rad-flo/
+PopupWebFrameBehaviour_0419FF90_15AB_4F5A_41AB_A73E409C96EC.url = https://bikershub.com/index.php/product-category/cascos/
+PopupWebFrameBehaviour_042D8B62_156B_D7FE_41A4_6266A590F170.url = https://bikershub.com/product-category/cascos/
+PopupWebFrameBehaviour_044456D0_1559_5EDA_4182_3A5A4044CBE7.url = https://bikershub.com/index.php/product-category/cascos/
+PopupWebFrameBehaviour_04736AEA_15A8_D6CE_41A2_46221AF97E5A.url = https://bikershub.com/index.php/product-category/equipos/
+PopupWebFrameBehaviour_0480A647_15A9_31C6_41B4_7E6B95FB8D1B.url = https://bikershub.com/index.php/product-category/equipos/
+PopupWebFrameBehaviour_04834397_1578_D746_41A2_69459B072DF9.url = https://bikershub.com/product-category/cascos/
+PopupWebFrameBehaviour_04A9563D_1569_514A_41A0_1B3CFF732210.url = https://bikershub.com/index.php/product-category/cascos/
+PopupWebFrameBehaviour_04ABBC68_15DF_51CA_4171_BB6CEC4C400C.url = https://bikershub.com/tienda/viper-pro-off-road-goggle-2/
+PopupWebFrameBehaviour_04AE517E_15A9_D3C9_4184_2DB890FD38D3.url = https://bikershub.com/index.php/product-category/equipos/
+PopupWebFrameBehaviour_04B06E4B_15D9_D1CE_4196_C8E4A1EDA664.url = https://bikershub.com/tienda/eks-brand-radikal-limited-edition-antiparras-flat-out-rad-black/
+PopupWebFrameBehaviour_04BBF7F3_15DF_5EDE_419B_E908D27A0DD6.url = https://bikershub.com/tienda/viper-pro-off-road-goggle-2/
+PopupWebFrameBehaviour_04D092E2_15D8_D6FE_41A8_5C9B7D9B4E95.url = https://bikershub.com/index.php/product-category/equipos/
+PopupWebFrameBehaviour_04DC45FE_15D8_D2C6_4187_BA30E8DD72B8.url = https://bikershub.com/tienda/viper-off-road-goggle-fade-black-clear-lens/
+PopupWebFrameBehaviour_04EF0D4A_1579_73CE_4193_B20248384500.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_04F3D9C1_15D9_533A_41B0_DC6F10EE5DF1.url = https://bikershub.com/tienda/viper-pro-off-road-goggle-2/
+PopupWebFrameBehaviour_0500D63C_157B_714A_418D_109D1E3C51B2.url = https://bikershub.com/index.php/product-category/accesorios/
+PopupWebFrameBehaviour_0505975E_15DB_3FC6_41B0_DE2D5FCA5149.url = https://bikershub.com/tienda/eks-brand-radikal-limited-edition-antiparras-flat-out-rad-flo/
+PopupWebFrameBehaviour_051EE037_1568_D146_41B1_73E7750C859E.url = https://bikershub.com/index.php/product-category/accesorios/
+PopupWebFrameBehaviour_053EF923_1578_D37E_41A0_12D6252E3D92.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_054CD570_15DB_D3DA_4179_EF9E6A83AC8A.url = https://bikershub.com/tienda/eks-brand-radikal-limited-edition-antiparras-flat-out-rad-flo/
+PopupWebFrameBehaviour_05753A81_156B_513A_41AD_6B3E6E9EA51A.url = https://bikershub.com/index.php/product-category/accesorios/
+PopupWebFrameBehaviour_05B75DD6_156F_F2C6_41AC_B93B05BD4C74.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_05DFE883_FF85_202F_41E3_F5EF9450D3DF.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_05EDCE5A_1569_31CE_41AC_959965285F0B.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_066654F6_15A7_52C6_41B2_9F24D0605B26.url = https://bikershub.com/index.php/product-category/equipos/
+PopupWebFrameBehaviour_068B35C3_15D8_F33F_419B_05C1D573203A.url = https://bikershub.com/tienda/viper-pro-off-road-goggle-2/
+PopupWebFrameBehaviour_0743C677_15B8_F1C6_41A5_39A90F8F051D.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_0752D9A2_15A8_F37E_41A0_BBA50BBC5BFE.url = https://bikershub.com/index.php/product-category/equipos/
+PopupWebFrameBehaviour_075C3677_15B9_51C6_4151_872DDD4858BB.url = https://bikershub.com/index.php/product-category/equipos/
+PopupWebFrameBehaviour_0789A670_1558_F1DA_41B2_710A2908AB94.url = https://bikershub.com/index.php/product-category/cascos/
+PopupWebFrameBehaviour_079B2C4C_15A8_D1CA_4194_49DDC6F5B16D.url = https://bikershub.com/index.php/product-category/cascos/
+PopupWebFrameBehaviour_07A37EF6_15A8_CEC6_4169_CDC909B8AD1C.url = https://bikershub.com/index.php/product-category/ropa-casual/
+PopupWebFrameBehaviour_07B8EACD_15AB_36CA_419C_2A3AA2C1F42E.url = https://bikershub.com/index.php/product-category/equipos/
+PopupWebFrameBehaviour_07D9453E_15A9_D346_41AD_F24FC5F27D51.url = https://bikershub.com/index.php/product-category/equipos/
+PopupWebFrameBehaviour_07DF55DD_15A9_F2CA_4192_2C4B41917B44.url = https://bikershub.com/index.php/product-category/equipos/
+PopupWebFrameBehaviour_07DF6A46_15B9_D1C6_41B3_46BA8732F9FB.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_07E79145_15AF_533A_41A8_9240B5842660.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_0A319B14_16A9_575A_4190_B56AE73DF760.url = https://bikershub.com/brand/radikal/
+PopupWebFrameBehaviour_0BDD40D7_16E8_D2C6_41B3_9C749D654AC8.url = https://bikershub.com/brand/forma/
+PopupWebFrameBehaviour_0F5D08A3_FF87_206F_41EA_A37E50E115AD.url = https://bikershub.com/product-category/accesorios/
+PopupWebFrameBehaviour_1A205D37_1567_5346_419D_8CA7B5DDD008.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_1A7275E2_1569_52FE_4197_39B524C5A712.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_1A76578C_1568_FF4A_4199_2AF86629ABC9.url = https://bikershub.com/index.php/product-category/accesorios/
+PopupWebFrameBehaviour_1AA8089F_156B_3146_419F_C20DAF8F68D2.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_30CDAF31_1AAF_4F5A_41AC_80BBC2D054AA.url = https://bikershub.com
+PopupWebFrameBehaviour_39210DF5_1B69_32DA_41A5_078E366F1F5C.url = https://bikershub.com/index.php/product-category/ropa-casual/
+PopupWebFrameBehaviour_3AF6E9D6_1B78_D2C6_41A8_D648EC1BD17A.url = https://bikershub.com/index.php/product-category/accesorios/
+PopupWebFrameBehaviour_3B6534BE_1B6B_D146_41B6_73851F291AD3.url = https://bikershub.com/index.php/product-category/cascos/
+PopupWebFrameBehaviour_3BB12E95_1B69_315A_41A8_6B2316D2C363.url = https://bikershub.com/index.php/product-category/cascos/
+PopupWebFrameBehaviour_3EA49898_1ABB_D14A_41B8_35E517E721F2.url = https://bikershub.com
+PopupWebFrameBehaviour_C832AD7A_FB8D_E0D9_41E6_5FA9487297C5.url = https://bikershub.com/product-category/cascos/
+PopupWebFrameBehaviour_CF08834C_FB8D_2039_41EA_0EA6CEBE1641.url = https://bikershub.com/product-category/cascos/
+PopupWebFrameBehaviour_EDC1A92A_FD50_46C1_41C4_08BCC5FF8A15.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_EDC3F92B_FD50_46C7_41D4_556878E9F47E.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F0BB6249_FD50_CB43_41DB_C251140096CC.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F23EA859_FD53_C743_41EA_51CCBA68B7B5.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F23FD85B_FD53_C747_41EA_1D6E6204C723.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F248BE54_FD50_3B41_41E4_BBD0EFE958A1.url = https://bikershub.com/product-category/equipos/
+PopupWebFrameBehaviour_F24978EC_FD50_4741_41E3_EA6B4928D27D.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F2561E53_FD50_3B47_41E5_3FC4D3D1F1A5.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F274BF02_FD50_7AC1_41D1_1E0F5FB5639F.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F2752F04_FD50_7AC1_41E4_ADB0628ED3EE.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F2A38E4F_FD53_DB5E_41DD_79D75BB57809.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F2A50E4D_FD53_DB43_41DE_ADAA9A94E793.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F2B4615D_FD50_C943_41E1_7F083DFDA59E.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F2B6115B_FD50_C947_41D7_86E6A2CFB065.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F2E65A6A_FD50_5B41_41B7_D0F69A68D7D4.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F3C261B9_FD50_C9C3_41EA_99C3D0462680.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F3C881BF_FD50_C93F_41D8_CF4F0328B9DB.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F3D801EC_FD50_C941_41C8_EB8BDD5F8FC8.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F3DA91EE_FD50_C941_41EA_E42061561864.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_F3EDCC02_FD50_3EC0_41DE_B7A9EB4DC3CB.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_FD427F3C_FF87_2059_41ED_8D69FB3EF5C0.url = https://bikershub.com/index.php/product-category/accesorios/
+PopupWebFrameBehaviour_FD486863_FF83_20EE_41EE_8E0B6787D9B6.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_FD492F8B_FF85_203F_4164_B6E90BFDAF14.url = https://bikershub.com/product-category/accesorios/
+PopupWebFrameBehaviour_FD4EF741_FF9F_202B_41D4_630F73F9C9D4.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_FD4F7EF9_FF9D_21DB_41E1_2EFCE2B25A96.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_FD4FFD8A_FF9D_2039_41DB_8E9EC55C43F7.url = https://bikershub.com/product-category/ropa-casual/
+PopupWebFrameBehaviour_FD4FFD8C_FF9D_2039_41D3_271C5628C9FA.url = https://bikershub.com/product-category/ropa-casual/
